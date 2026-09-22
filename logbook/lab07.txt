@@ -1,0 +1,10 @@
+LAB 7 LOGBOOK - <Prisha Pandya> - <0892>
+SETUP: clang version 21.0.0 python3 version- Python 3.9.6
+T1: running hello.py created 0 new files
+T1: the extra step in the C workflow is compilation and it produces an executable binary
+T1: when I run python3 hello.py the CPU executes python3 ; hello.py is just data
+T1: hello.c is  bytes and hello is  bytes. my guess for why: the compiler injects system headers and standard library code to create a standalone executable binary
+T2: file says hello is Mach-O 64-bit executable 
+T2 prediction: python3 itself is machine code
+T2: python3 is machine code so when I run python3 hello.py the CPU executes python3 and reads hello.py as data
+T2: my string sits at offset 0x3f50 inside hello

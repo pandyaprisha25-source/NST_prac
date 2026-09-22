@@ -1,0 +1,7 @@
+LAB 6 LOGBOOK - <Prisha> - <0892>
+SETUP: my working directory is ~/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show about 14 items
+T1: /bin holds command line tools
+T1: /dev holds special devices and hardware
+T1: / means root directory , ~ means home directory , . means current directory
+T1: the OS groups files by directories
